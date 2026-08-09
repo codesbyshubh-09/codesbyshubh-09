@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Shubh Chaurasiya
 
-<!--
-**codesbyshubh-09/codesbyshubh-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student  
+💻 Learning C, C++, Java & Python  
+🚀 Interested in Software & Embedded Systems
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- C Programming
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Become a Software & Embedded Engineer
+- Build useful projects
+- Improve coding skills consistently
+
+## 📚 My Repositories
+- C Programming Practice
+- Learning Hub
+
+---
+
+⭐ Learning, building and improving every day.
